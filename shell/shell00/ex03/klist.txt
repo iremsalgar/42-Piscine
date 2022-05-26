@@ -1,0 +1,5 @@
+Credentials cache: API:30E1901E-CEE4-4773-83A8-798F7A87FA58
+        Principal: isalgar@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Nov 25 23:06:47 2021  Nov 26 09:06:28 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
